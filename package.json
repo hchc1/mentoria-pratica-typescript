@@ -1,0 +1,24 @@
+{
+  "name": "mentoria-pratica-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchc1/mentoria-pratica-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hchc1/mentoria-pratica-typescript/issues"
+  },
+  "homepage": "https://github.com/hchc1/mentoria-pratica-typescript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
